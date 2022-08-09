@@ -1,0 +1,65 @@
+body {
+    margin: 0px 200px 100px 200px;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    max-width: 400px;
+    max-height: auto;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+}
+
+nav {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+section {
+    padding-bottom: 100px;
+}
+
+ul li {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    list-style-position: inside;
+}
+
+.spacer {
+    padding-bottom: 100px;
+}
+
+.page {
+    background-color: lightcyan;
+    padding: 100px 50px 100px 50px;
+    border: 5px;
+    border-style: groove;
+}
+
+.pets {
+    margin: 100px 200px 100px 200px;
+}
+
+.photos {
+    border-radius: 55px;
+    max-height: 400px;
+    max-width: auto;
+    border: 5px;
+    border-color: black;
+    float: left;
+    padding: 0 20px 20px 0;
+}
